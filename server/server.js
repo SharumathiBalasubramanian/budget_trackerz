@@ -42,7 +42,7 @@ const aiLimiter = rateLimit({
 
 // CORS Configuration
 const allowedOrigins = [
-  'https://budgettrackerz.netlify.app',
+  'https://budgettrackerapps.netlify.app',
   'http://localhost:5173',
   'http://localhost:3000',
 ];
